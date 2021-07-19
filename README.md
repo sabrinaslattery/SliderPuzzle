@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://sabrinaslattery.github.io/SliderPuzzle/">
-    <img src="https://github.com/sabrinaslattery/online-portfolio/blob/main/project_image.png" alt="Logo" width="220" height="160">
+    <img src="https://github.com/sabrinaslattery/SliderPuzzle/blob/main/Project_image.png" alt="Logo" width="220" height="160">
   </a>
 
   <h3 align="center">Slider Puzzle MiniGame</h3>
